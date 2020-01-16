@@ -1,0 +1,12 @@
+																Consignes Projet Python Avancé
+
+Web Scraping (ex : sites de e-commerce) + analyse (régression, clustering)
+Créer notre base de données (plutôt des données textuelles pour faire NLP)
+Utiliser PySpark
+
+Quelques consignes :
+- Ne jamais utiliser des boucles avec les dataframes
+- Mettre des commentaires
+- Code modulaire
+
+Rendu : Notebook (commenter, print intermédiaire, base de données) et Power Point (présentation du site + capture d'écran de la base de données, min 5 slides)
